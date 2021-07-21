@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dheepdatascigit
 - 👀 I’m interested in Python, DataScience and Cloud automation
-- 🌱 I’m currently learning Azure Resource Templates and Blockchain
+- 🌱 I’m currently learning Terraform, IoT and Blockchain
 - 💞️ I’m looking to collaborate on Terraform templates for Azure
 - 📫 How to reach me dheep@net-research.com.au
 
